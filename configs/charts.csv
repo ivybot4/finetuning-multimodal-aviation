@@ -1,0 +1,35 @@
+chart,tif_file,row_min,row_max,col_min,col_max,split
+Albuquerque,Albuquerque SEC.tif,1500,10500,1600,16500,train
+Atlanta,Atlanta SEC.tif,0,0,0,0,train
+Billings,Billings SEC.tif,0,0,0,0,train
+Brownsville,Brownsville SEC.tif,0,0,0,0,train
+Charlotte,Charlotte SEC.tif,0,0,0,0,val
+Cheyenne,Cheyenne SEC.tif,0,0,0,0,train
+Chicago,Chicago SEC.tif,0,0,0,0,val
+Cincinnati,Cincinnati SEC.tif,0,0,0,0,train
+Dallas-Ft Worth,Dallas-Ft Worth SEC.tif,0,0,0,0,train
+Denver,Denver SEC.tif,0,0,0,0,test
+Detroit,Detroit SEC.tif,0,0,0,0,train
+El Paso,El Paso SEC.tif,0,0,0,0,train
+Great Falls,Great Falls SEC.tif,0,0,0,0,train
+Green Bay,Green Bay SEC.tif,0,0,0,0,train
+Houston,Houston SEC.tif,0,0,0,0,train
+Jacksonville,Jacksonville SEC.tif,0,0,0,0,train
+Kansas City,Kansas City SEC.tif,0,0,0,0,train
+Klamath Falls,Klamath Falls SEC.tif,0,0,0,0,train
+Las Vegas,Las Vegas SEC.tif,0,0,0,0,train
+Los Angeles,Los Angeles SEC.tif,0,0,0,0,train
+Memphis,Memphis SEC.tif,0,0,0,0,train
+Miami,Miami SEC.tif,0,0,0,0,test
+New Orleans,New Orleans SEC.tif,0,0,0,0,train
+New York,New York SEC.tif,0,0,0,0,train
+Omaha,Omaha SEC.tif,0,0,0,0,train
+Phoenix,Phoenix SEC.tif,0,0,0,0,val
+Salt Lake City,Salt Lake City SEC.tif,0,0,0,0,train
+San Antonio,San Antonio SEC.tif,0,0,0,0,train
+San Francisco,San Francisco SEC.tif,0,0,0,0,train
+Seattle,Seattle SEC.tif,0,0,0,0,test
+St Louis,St Louis SEC.tif,0,0,0,0,train
+Twin Cities,Twin Cities SEC.tif,0,0,0,0,train
+Washington,Washington SEC.tif,0,0,0,0,train
+Wichita,Wichita SEC.tif,0,0,0,0,train
